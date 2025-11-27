@@ -614,6 +614,6 @@ npm run build
 
 ---
 
-**开发者**：[Your Name]  
-**开发时间**：2024年  
+**开发者**：南京师范大学 徐子锐
+**开发时间**：2025年11月27日  
 **技术栈**：React 18 + Zustand + Tailwind CSS + Motion
