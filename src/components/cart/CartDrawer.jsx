@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { X, Minus, Plus, ShoppingBag, Trash2 } from 'lucide-react';
+import { X, ShoppingBag, Trash2 } from 'lucide-react';
 import useStore from '../../store/useStore';
 
 const CartDrawer = ({ isOpen, onClose }) => {
