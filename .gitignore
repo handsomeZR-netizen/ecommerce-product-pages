@@ -32,3 +32,6 @@ dist-ssr
 
 # Kiro IDE
 .kiro
+
+# Documentation (implementation summaries)
+doc
