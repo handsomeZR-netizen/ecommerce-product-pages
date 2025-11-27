@@ -6,6 +6,9 @@
 
 本项目是一个完整的前端电商解决方案，严格遵循现代 React 开发最佳实践，实现了从项目初始化到生产优化的完整开发流程。项目采用组件化架构、集中式状态管理、响应式设计，并通过 Motion 动画库提升用户体验。
 
+
+已经在线部署至：https://github.com/handsomeZR-netizen/ecommerce-product-pages/tree/main
+
 ## 🎯 核心技术栈
 
 | 技术 | 版本 | 应用场景 |
